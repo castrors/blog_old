@@ -1,0 +1,14 @@
+---
+title: Jurídico Correspondentes
+layout: default
+modal-id: 4
+date: 2015-01-10
+img: juriscorrespondentes.png
+alt: image-alt
+project-date: Janeiro de 2015
+client: Jurídico Correspondentes
+client-url: https://juridicocorrespondentes.com.br
+category: Desenvolvimento Android Nativo
+description: Aplicativo do maior portal de correspondentes do Brasil. Trabalhei em todo o desenvolvimento do aplicativo android, desde o login até sincronização com a API.
+
+---

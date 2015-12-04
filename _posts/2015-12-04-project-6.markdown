@@ -1,0 +1,14 @@
+---
+title: Balad
+layout: default
+modal-id: 6
+date: 2015-05-10
+img: balad.png
+alt: image-alt
+project-date: Março de 2015
+client: Balad
+client-url: http://www.balad.com.br/
+category: Desenvolvimento Android Nativo e API em Rails
+description: Descubra a noite, conheça novas pessoas e vá pra balada. Trabalhei no desenvolvimento do aplicativo nativo android, com login como facebook e integração com a API. Desenvolvi alguns ajustes da API, como novas funcionalidades, mas na maior parte do projeto fiquei responsável pelo Aplicativo Android.
+
+---

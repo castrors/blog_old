@@ -1,0 +1,14 @@
+---
+title: TipU
+layout: default
+modal-id: 3
+date: 2014-12-10
+img: tipu.png
+alt: image-alt
+project-date: Dezembro de 2015
+client: TipU
+client-url: http://rodorastro.com.br
+category: Desenvolvimento Android Nativo
+description: Aplicativo onde você compartilha bons momentos e ganha recompensas. Trabalhei em uma atualização do aplicativo, onde foi implementado novas funcionalidades e novo layout.
+
+---

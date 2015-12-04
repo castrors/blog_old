@@ -1,0 +1,14 @@
+---
+title: Trucadão
+layout: default
+modal-id: 1
+date: 2014-06-10
+img: trucadao.png
+alt: image-alt
+project-date: Junho de 2014
+client: Trucadão
+client-url: http://www.trucadao.com.br/
+category: Desenvolvimento Web Rails
+description: Site de compra e venda de veículos e máquinas pesadas. Trabalhei no desenvolvimento de um sistema de chat em tempo real neste projeto.
+
+---

@@ -1,0 +1,14 @@
+---
+title: Ganhe na tela
+layout: default
+modal-id: 7
+date: 2015-09-10
+img: ganhenatela.png
+alt: image-alt
+project-date: Setembro de 2015
+client: Ganhe na tela
+client-url: http://www.ganhenatela.com.br/
+category: Desenvolvimento Android Nativo
+description: Desbloqueie seu celular, veja anúncios e ganhe créditos. Trabalhei no desenvolvimento do aplicativo nativo android, fiz a sincronia dos banners com a nova versão da API em Rails.
+
+---
