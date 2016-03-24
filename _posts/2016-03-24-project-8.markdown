@@ -1,0 +1,14 @@
+---
+title: ECX Táxi
+layout: default
+modal-id: 8
+date: 2015-06-10
+img: ecx.png
+alt: image-alt
+project-date: Junho de 2015
+client: ECX Card
+client-url: https://www.ecx.com.br
+category: Desenvolvimento Android Nativo
+description: Para uma simples corrida não se transformar em uma maratona. Trabalhei no desenvolvimento do aplicativo nativo android, participei nos módulos do taxista e do passageiro.
+
+---
