@@ -1,0 +1,14 @@
+---
+title: QFome
+layout: default
+modal-id: 44
+date: 2014-10-10
+img: qfome.png
+alt: image-alt
+project-date: Outubro de 2014
+client: QFome
+client-url: http://www.qfome.com/
+category: Desenvolvimento Android Nativo, Sistema Web e API Rest em Rails.
+description: Entre os mais deliciosos pratos baseado na sua localização. Com esta startup, ganhamos o Startup Weekend Campo Grande de 2014. E ganhamos também como prêmio, participação no Empretec.
+
+---

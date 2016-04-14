@@ -1,0 +1,14 @@
+---
+title: SGV Mobile
+layout: default
+modal-id: 33
+date: 2016-01-04
+img: sgv.png
+alt: image-alt
+project-date: Janeiro de 2016
+client: Rede Tendência
+client-url: http://www.redetendencia.com.br/
+category: Desenvolvimento Android Nativo.
+description: Sistema de gestão de vendas, aplicativo usado pelos consultores da Rede tendência em campo, traçando rotas automaticamente, realizando o fluxo de vendas. Atualmente trabalho neste projeto com a implementação de novas features, ajustes, evolução do sistema como um todo.
+
+---
