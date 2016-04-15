@@ -48,10 +48,14 @@ social:
     url: https://bitbucket.org/rodrigocastro
   - title: github
     url: http://github.com/castrors
+  - title: fire
+    url: https://www.freecodecamp.com/castrors
+  - title: linkedin
+    url: https://br.linkedin.com/in/castrodev
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Coxim
+  - line: Campo Grande
   - line: MS - BR
 
 # Credits content
