@@ -1,7 +1,7 @@
 ---
 title: SGV Mobile
 layout: default
-modal-id: 33
+modal-id: 12
 date: 2016-01-04
 img: sgv.png
 alt: image-alt

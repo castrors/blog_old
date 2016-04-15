@@ -1,7 +1,7 @@
 ---
-title: TipU
+title: Tip U
 layout: default
-modal-id: 3
+modal-id: 5
 date: 2014-12-10
 img: tipu.png
 alt: image-alt
