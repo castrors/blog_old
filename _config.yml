@@ -3,7 +3,7 @@ title: Rodrigo Castro
 email: rodrigodesouzacastro@gmail.com
 url: https://castrors.github.io
 description: "Androider and Mobile Tech Lover."
-skills: "Desenvolvedor de aplicações web e mobile"
+skills: "Desenvolvedor de aplicações mobile"
 meta_author: Castro Rodrigo
 
 # Google webmaster tools
@@ -33,7 +33,7 @@ color:
 footer:
   copyright: Castro Dev
   location: Localização
-  social: Por aí na internet
+  social: Redes sociais
   credits: Créditos
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
@@ -51,8 +51,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Coxim
-  - line: MS - BR
+  - line: São Paulo
+  - line: SP - BR
 
 # Credits content
 credits:  'Esta página foi feita utilizando <a href="http://startbootstrap.com">Start Bootstrap</a>.'
