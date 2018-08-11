@@ -1,4 +1,5 @@
 ---
+type: project
 title: Rastrovet
 layout: default
 modal-id: 8

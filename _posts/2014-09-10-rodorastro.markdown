@@ -1,4 +1,5 @@
 ---
+type: project
 title: Rodorastro
 layout: default
 modal-id: 4

@@ -1,4 +1,5 @@
 ---
+type: project
 title: Balad
 layout: default
 modal-id: 9

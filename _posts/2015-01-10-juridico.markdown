@@ -1,4 +1,5 @@
 ---
+type: project
 title: Jurídico Correspondentes
 layout: default
 modal-id: 6

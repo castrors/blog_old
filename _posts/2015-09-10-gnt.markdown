@@ -1,4 +1,5 @@
 ---
+type: project
 title: Ganhe na tela
 layout: default
 modal-id: 11

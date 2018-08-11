@@ -1,4 +1,5 @@
 ---
+type: project
 title: ECX Táxi
 layout: default
 modal-id: 10

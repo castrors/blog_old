@@ -1,4 +1,5 @@
 ---
+type: project
 title: Orçamento Pessoal
 layout: default
 modal-id: 1
